@@ -1,0 +1,2 @@
+# JavaFunctionalFunctionalInterfacesFunction
+Describe Function Functional Interface inside function Package 
